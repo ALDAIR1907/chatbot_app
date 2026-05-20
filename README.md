@@ -1,6 +1,6 @@
-# 🤖 Chatbot Open Source con IA
+# 🤖 Chatbot con IA
 
-Un chatbot que funciona **100% local** usando inteligencia artificial. No necesita API externa ni pagos.
+Un chatbot que funciona **100% local** usando inteligencia artificial. Sin necesidad de usar API externa ni pagos.
 
 ## ✨ Características
 
