@@ -1,0 +1,6 @@
+# En tu carpeta chatbot-opensource, crea .gitignore
+echo "venv/" > .gitignore
+echo "__pycache__/" >> .gitignore
+echo "*.pyc" >> .gitignore
+echo ".env" >> .gitignore
+echo ".DS_Store" >> .gitignore
